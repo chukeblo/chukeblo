@@ -15,6 +15,11 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/chukeblo/contributions.svg" />
   </a>
 </p>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chukeblo&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chukeblo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=chukeblo&show_icons=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chukeblo&layout=compact" />
+  </a>
