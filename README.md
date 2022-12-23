@@ -20,6 +20,6 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=chukeblo&show_icons=true" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" src="https://my-repo-for-github-readme-stats-skqr.vercel.app/api/top-langs/?username=chukeblo&layout=compact&exclude_repo=my-repo-for-github-readme-stats" />
+  <a href="https://github.com/chukeblo/my-repo-for-github-readme-stats">
+    <img height="200" src="https://my-repo-for-github-readme-stats.vercel.app/api/top-langs/?username=chukeblo&layout=compact&exclude_repo=my-repo-for-github-readme-stats" />
   </a>
